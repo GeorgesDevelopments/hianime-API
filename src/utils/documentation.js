@@ -11,7 +11,7 @@ const apiDocumentation = {
          hasQueries: false,
          example: "/home",
          description:
-            "Fetches the homepage content of hianime such as spotlight, top Airing, trending, mostPopular, mostFavorite, newAdded, latest Updated, top10 and genres.",
+            "Fetches the homepage content of hianime such as spotlight, top Airing, trending, mostPopular, mostFavorite, newAdded, latest Updated, t op10 and genres.",
       },
       {
          name: "A-Z List",
