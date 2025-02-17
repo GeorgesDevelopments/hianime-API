@@ -1,6 +1,6 @@
 const apiDocumentation = {
    generalInfo: {
-      baseUrl: "https://hianime-api-production.up.railway.app/api/v1",
+      baseUrl: "https://hianime-api-psi.vercel.app/api/v1",
       documentationUrl: "https://github.com/yahyaMomin/hianime-API/blob/main/README.md",
    },
    endpoints: [
