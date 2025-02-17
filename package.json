@@ -1,7 +1,7 @@
 {
   "name": "hianime",
   "scripts": {
-    "start": "bun run index.js",
+    "start": "node index.js",
     "dev": "bun --watch run index.js"
   },
   "dependencies": {
@@ -9,9 +9,13 @@
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
-    "hono": "^4.6.5"
+    "hono": "^4.6.5",
+    "@hono/node-server": "^1.8.2"
   },
   "devDependencies": {
     "@types/bun": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
